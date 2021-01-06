@@ -1,9 +1,20 @@
-# pocupine
+# porcupine
 
-Wake word detection library (Go bindings).
+![](docs/logo.png)
 
-## TODO
+Go bindings for wake word detection library.
 
-- Documentation (version, custom patches, etc).
-- Make the library entirely self-contained.
-- Have scripts to easily update everything + automate it with Github workflow.
+## Features
+
+- Porcupine 1.9.
+- Windows, Linux and Mac.
+- Embeds the model and dynamic libraries into the executable.
+- Custom trained wake words work indefinitely.
+
+## Requirements
+
+Requires Go 1.16 and above.
+
+## License
+
+This is free and unencumbered software released into the public domain. See the [UNLICENSE](UNLICENSE) file for more details.
